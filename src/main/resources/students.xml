@@ -1,0 +1,26 @@
+<students>
+    <student>
+        <id>1</id>
+        <firstName>Anton</firstName>
+        <lastName>Culici</lastName>
+        <dateOfBirth>03.05.1985</dateOfBirth>
+        <groupName>P-132</groupName>
+        <facultyName>Chemistry</facultyName>
+    </student>
+    <student>
+        <id>2</id>
+        <firstName>Serghei</firstName>
+        <lastName>Bareian</lastName>
+        <dateOfBirth>07.09.1986</dateOfBirth>
+        <groupName>P-140</groupName>
+        <facultyName>Economics</facultyName>
+    </student>
+    <student>
+        <id>3</id>
+        <firstName>Alexei</firstName>
+        <lastName>Sirghi</lastName>
+        <dateOfBirth>23.06.1984</dateOfBirth>
+        <groupName>P-98</groupName>
+        <facultyName>Physics</facultyName>
+    </student>
+</students>
